@@ -1,1 +1,3 @@
-# bgs22_xss
+G# bgs22_xss
+my first tool 🙂
+Thanks AHMED ELTIJANI 😊
